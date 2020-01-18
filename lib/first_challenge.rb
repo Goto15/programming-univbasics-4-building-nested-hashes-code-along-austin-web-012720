@@ -1,4 +1,5 @@
 def first_challenge
+  =begin
    epic_tragedy = {
      :montague => {
        :patriarch => {
